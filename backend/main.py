@@ -18,7 +18,8 @@ class Person(BaseModel):
 
 DB: List[Person] = [
     Person(id=1, name="Jamila", age=22),
-    Person(id=2, name="Alex", age=18)
+    Person(id=2, name="Alex", age=18),
+    Person(id=3, name="Ali", age=15)
 ]
 
 
